@@ -1,3 +1,6 @@
 This is sample1 file
 Adding a new file
 
+Adding some more changes, apply
+
+Adding new line
