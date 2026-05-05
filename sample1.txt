@@ -4,3 +4,5 @@ Adding a new file
 Adding some more changes, apply
 
 Adding new line
+
+Adding one more line
